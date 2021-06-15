@@ -1,0 +1,1 @@
+export { default } from 'ember-hcl-sdk/components/hcl-ui';

@@ -1,16 +1,13 @@
 ember-hcl-sdk
 ==============================================================================
 
-[Short description of the addon.]
+The `ember-clk-sdk` addon provides a simple way to integrate the Healthcare
+Locator SDK in your `Ember.js` applications.
 
+This project is part of the submission of the CareCards team for the COVID-19
+Healthcare App Challenge.
 
-Compatibility
-------------------------------------------------------------------------------
-
-* Ember.js v3.16 or above
-* Ember CLI v2.13 or above
-* Node.js v10 or above
-
+https://healthcareappchallenge.devpost.com
 
 Installation
 ------------------------------------------------------------------------------
@@ -24,13 +21,6 @@ Usage
 ------------------------------------------------------------------------------
 
 [Longer description of how to use the addon in apps.]
-
-
-Contributing
-------------------------------------------------------------------------------
-
-See the [Contributing](CONTRIBUTING.md) guide for details.
-
 
 License
 ------------------------------------------------------------------------------
