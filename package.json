@@ -1,12 +1,13 @@
 {
   "name": "ember-hcl-sdk",
-  "version": "0.0.2",
-  "description": "Ember Addon for integrating the Healthcare Locator Javascript SDK in your Ember.js application.",
+  "version": "0.0.3",
+  "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon",
-    "sdk",
-    "Healthcare",
-    "Locator"
+    "HCL",
+    "SDK",
+    "Healthlocator",
+    "Microsoft"
   ],
   "repository": "",
   "license": "MIT",
@@ -29,7 +30,6 @@
     "test:ember-compatibility": "ember try:each"
   },
   "dependencies": {
-    "ember-arg-types": "^0.3.0",
     "ember-cli-babel": "^7.23.0",
     "ember-cli-htmlbars": "^5.3.1"
   },
