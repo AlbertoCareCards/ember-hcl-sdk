@@ -12,7 +12,7 @@ export default class HclUiComponent extends Component {
 
   @action
   loadHclSdk(sdkElement) {
-    sdkElement.init({
+    console.log(sdkElement.init({
       apiKey: this.args.apiKey,
       appName: this.args.appName,
       appURL: this.args.appURL,
@@ -20,6 +20,6 @@ export default class HclUiComponent extends Component {
         screenName: this.args.screenName,
         specialtyCode: this.specialist
       }
-    })
+    }))
   }
 }
