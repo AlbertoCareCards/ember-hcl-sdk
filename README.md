@@ -6,7 +6,8 @@ Locator SDK in your `Ember.js` applications.
 
 This project is part of the submission of the CareCards team for the COVID-19
 Healthcare App Challenge. We wanted to prove how easy and good fit is the HCL
-Javascript SDK for our project by creating this simple but useful plugin.
+Javascript SDK for our project by creating this simple but useful Ember addon
+for all JS developers, and sharing it with the community.
 
 For more information contact: alberto@care-cards.io
 
