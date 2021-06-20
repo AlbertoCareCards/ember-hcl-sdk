@@ -1,6 +1,6 @@
 {
   "name": "ember-hcl-sdk",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Integration of the Healthcare Locator SDK Javascript UI as Ember Addon.",
   "keywords": [
     "ember-addon",
