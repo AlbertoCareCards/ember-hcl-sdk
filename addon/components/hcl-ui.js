@@ -23,7 +23,7 @@ export default class HclUiComponent extends Component {
         specialtyCode: this.specialist
       }
     }).then((results) => {
-      if(component.onSdkLoaded) component.onSdkLoaded(sdkElement)
+      if(component.args.onSdkLoaded) component.args.onSdkLoaded(sdkElement)
     })
   }
 }
