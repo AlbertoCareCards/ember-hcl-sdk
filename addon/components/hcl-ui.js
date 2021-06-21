@@ -20,7 +20,7 @@ export default class HclUiComponent extends Component {
       appURL: this.args.appURL,
       entry: {
         screenName: this.args.screenName,
-        specialtyCode: this.specialist
+        specialtyCode: this.args.specialist
       }
     }).then((results) => {
       if(component.args.onSdkLoaded) component.args.onSdkLoaded(sdkElement)
